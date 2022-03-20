@@ -1,0 +1,2 @@
+Hello from hello.txt file
+Now I am learning python.It's easy to learn.
